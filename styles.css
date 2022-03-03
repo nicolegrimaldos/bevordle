@@ -3,7 +3,6 @@
   box-sizing: border-box;
   font-family: Arial;
 }
-
 body {
   background-color: #BF5700;
   display: flex;
@@ -218,3 +217,4 @@ body {
 .alert.hide {
   opacity: 0;
 }
+body > div { display: inline-block; }
