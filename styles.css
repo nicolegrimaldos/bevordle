@@ -89,13 +89,13 @@ body {
   grid-template-rows: repeat(6, 4em);
   gap: .25em;
   margin-bottom: 1em;
-  color:white
+
 }
 
 .tile {
   font-size: 2em;
   color: white;
-  border: .05em solid hsl(240, 2%, 23%);
+  border: .05em solid hsl(0, 0%, 100%);
   text-transform: uppercase;
   font-weight: bold;
   display: flex;
