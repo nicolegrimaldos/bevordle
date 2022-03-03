@@ -27,7 +27,8 @@ body {
     text-align: center;
     width: 510px;
     border-bottom: solid 1px #FFFFFF;
-    display: flex
+    flex-direction: column;
+
 }
 
 .key {
